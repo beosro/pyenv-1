@@ -1,0 +1,15 @@
+SOLUTION 1
+ pH 7 charge
+ C 1 CO2(g) -1
+ Ca 1 Calcite
+ F 1 Fluorite
+
+REACTION
+ NaAlSi3O8 1
+ 7.5e-3 in 15
+ 
+EQUILIBRIUM_PHASES 1
+ Fluorite
+ Calcite
+ Quartz 0 0
+ Kaolinite 0 0

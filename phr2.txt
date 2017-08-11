@@ -1,0 +1,17 @@
+solution 0-1
+-pH 7 charge
+-water 1.0
+Equilibrium phases 1
+portlandite 0 1
+save solution 1
+save Equilibrium phases 1
+save solution 0
+selected_output
+-file abstracted_model.xls
+-totals Ca Si
+-temp true
+-high_precision true
+-equilibrium_phases  portlandite
+Dump
+-all
+end

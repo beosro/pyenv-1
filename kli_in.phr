@@ -1,0 +1,13 @@
+SOLUTION 1 Citrate pH
+temp 25
+pH 7 charge
+pe 4
+redox pe
+units mmol/l
+density 1
+Citrate 20
+Cl 1 
+Na 1
+-water 1 #kg
+
+END

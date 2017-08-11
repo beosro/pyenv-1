@@ -1,0 +1,24 @@
+	TITLE Untitled
+	SOLUTION 1
+		pH 7.88
+		temp 18.8
+		pe 8.
+		units mg/L
+		Alkalinity 49.2
+		Ca 16.5
+		Cl 13.8
+		Fe 0.025
+		Mg 4.0
+		N 0.397 as N03-
+		K 1.2
+		Si 0.9
+		Na 9.02
+		S 4.2 as SO4-2
+        
+    DUMP
+     -all
+     
+    SELECTED_OUTPUT
+     -all
+   
+	END

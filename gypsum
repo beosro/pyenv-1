@@ -1,0 +1,13 @@
+SOLUTION 1
+END
+INCREMENTAL_REACTIONS
+REACTION
+    NaCl 1.0
+    0 60*0.1 moles
+EQUILIBRIUM_PHASES
+    Gypsum
+USE solution 1
+SELECTED_OUTPUT
+    -reset false
+    -total Na S(6)
+END
